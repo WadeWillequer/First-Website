@@ -1,0 +1,12 @@
+body {
+    background:lightslategray
+}
+
+body { 
+    background: lightblue url("Eclipse.jpg") no-repeat fixed center; 
+    background-size: cover;
+  }
+  
+  img  {
+    float: right;
+  }
